@@ -1,0 +1,14 @@
+{
+    "name" : "motivational qoutes by raj",
+    "version" : "0.1.1",
+    "manifest_version" : 2,
+    "browser_action" : {
+         "default_popup":"popup.html",
+         "default_icon" : "IMG_4219e.png"
+
+    },
+    "icons":{
+        "128":"IMG_4219e.png"
+    },
+    "permission":["activeTab"]
+}
